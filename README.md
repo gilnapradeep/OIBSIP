@@ -30,8 +30,8 @@ This repository contains the complete set of end-to-end Data Science and Machine
 ```text
 OIBSIP/
 ├── README.md                                  # Repository overview and index
-├── DataScience-Task1-IrisClassification/       # Task 1 files & documentation
-├── DataScience-Task2-UnemploymentAnalysis/     # Task 2 files & documentation
-├── DataScience-Task3-CarPricePrediction/       # Task 3 files & documentation
-├── DataScience-Task4-EmailSpamDetection/       # Task 4 files & documentation
-└── DataScience-Task5-SalesPrediction/          # Task 5 files & documentation
+├── DataScience-Task1-IrisClassification/       # Task 1 files 
+├── DataScience-Task2-UnemploymentAnalysis/     # Task 2 files 
+├── DataScience-Task3-CarPricePrediction/       # Task 3 files 
+├── DataScience-Task4-EmailSpamDetection/       # Task 4 files 
+└── DataScience-Task5-SalesPrediction/          # Task 5 files 
