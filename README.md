@@ -1,6 +1,6 @@
 # Oasis Infobyte Data Science Internship (OIBSIP)
 
-This repository contains the complete set of end-to-end Data Science and Machine Learning projects completed during the **Oasis Infobyte Internship Program**. Each project follows a structured workflow: data cleaning, exploratory data analysis (EDA), model training, benchmarking, and documentation.
+This repository contains the complete set of end-to-end Data Science and Machine Learning projects completed during the **Oasis Infobyte Internship Program**. Each project follows a structured workflow: data cleaning, exploratory data analysis (EDA) and model training.
 
 ---
 
